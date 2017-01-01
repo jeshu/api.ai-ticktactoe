@@ -1,0 +1,23 @@
+.mainContainer {
+	padding: 10px;
+	margin: 0 auto;
+}
+.logger {
+	margin-top: 10px;
+	height: 300px;
+	border: 1px #666 solid;
+	font-size: 12px;
+	line-height: 16px;
+	overflow-y: auto; 	
+}
+
+.logger span {
+	display: block;
+	border-bottom: 1px #CCC solid; 
+}
+
+.command {
+	width: 400px;
+	text-align: center;
+	margin: 10px auto;
+}

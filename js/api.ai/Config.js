@@ -1,0 +1,9 @@
+Config = {
+	SERVER_PROTO : 'wss',
+	SERVER_DOMAIN : 'api-ws.api.ai',
+	TTS_DOMAIN : 'api.api.ai',
+	SERVER_PORT : '4435',
+	ACCESS_TOKEN : 'a391f42e9b7447c4a8f39a486b82535f',
+	SERVER_VERSION : '12547899632556'
+	// SERVER_VERSION : '20150910'
+}
